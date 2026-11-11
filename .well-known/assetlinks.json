@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.lezarde.app",
+      "sha256_cert_fingerprints": [
+        "57:C8:25:9B:BA:E0:42:36:82:A0:7E:6A:BD:7F:D7:AA:07:5A:00:38:95:AB:96:C1:2E:F8:E4:63:40:A9:62:15"
+      ]
+    }
+  }
+]
